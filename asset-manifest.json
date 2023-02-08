@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anand-github/static/css/main.073c9b0a.css",
+    "main.js": "/anand-github/static/js/main.5bfd5f4e.js",
+    "static/js/787.21d17fcb.chunk.js": "/anand-github/static/js/787.21d17fcb.chunk.js",
+    "static/media/logo.svg": "/anand-github/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/anand-github/index.html",
+    "main.073c9b0a.css.map": "/anand-github/static/css/main.073c9b0a.css.map",
+    "main.5bfd5f4e.js.map": "/anand-github/static/js/main.5bfd5f4e.js.map",
+    "787.21d17fcb.chunk.js.map": "/anand-github/static/js/787.21d17fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5bfd5f4e.js"
+  ]
+}
